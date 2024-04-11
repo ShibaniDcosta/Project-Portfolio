@@ -1,0 +1,83 @@
+.image {
+  float: left;
+  margin: 1px;
+  width: 100px;
+  height: 100px;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+.shibani {
+  font-family: helvetica;
+}
+
+hr {
+  height: 4px;
+  color: #bcbbbb;
+  background-color: #bcbbbb;
+  margin-top: 0;
+}
+
+.modal-header {
+  color: black;
+  font-size: 20px;
+  font-style: italic;
+}
+
+.music {
+  font-weight: bold;
+
+}
+
+.concert {
+  border: 1px grey solid;
+  cursor: pointer;
+}
+
+.husky {
+  font-weight: bold;
+}
+
+.django {
+  font-family: sans-serif;
+  font-size: 15px;
+}
+
+.title {
+  font-family: cursive;
+  font-weight: bolder;
+  color: blue;
+
+}
+
+.concerts {
+  font-family: helvetica;
+  font-size: 15px;
+}
+
+.huskys {
+  font-family: georgia;
+  font-size: 15px;
+}
+
+footer {
+  border: 3px solid black;
+  padding: 10px;
+  width: 50%;
+  color: #bcbbbb;
+  margin-top: 20px;
+  font-size: smaller;
+  transition: transform 0.5s;
+  background-color: #9b7497;
+}
+
+footer:hover {
+  transform: rotate(15deg);
+}
+
+.center-block {
+  float:none;
+}
